@@ -6,4 +6,4 @@ export const sortByLength = (arr) => {
   })
 };
 
-console.log(sortByLength(['книга', 'материя', 'кот', 'левиафан', 'рука']));
+// console.log(sortByLength(['книга', 'материя', 'кот', 'левиафан', 'рука']));

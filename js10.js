@@ -6,4 +6,4 @@ export const sortByOddity = (arr) => {
   });
 };
 
-console.log(sortByOddity([18, 11, 34, 2, 45, 12])); // 45, 34, 18, 12, 11, 2
+// console.log(sortByOddity([18, 11, 34, 2, 45, 12])); // 45, 34, 18, 12, 11, 2
