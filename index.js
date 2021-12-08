@@ -9,3 +9,5 @@ import {directionByKeyCode} from './js08.js';
 import {sortByDesc} from './js09.js';
 import {sortByOddity} from './js10.js';
 import {sortByLength} from './js11.js';
+import {sortByProp} from './js12.js';
+import {sortByEmail} from './js13.js';
