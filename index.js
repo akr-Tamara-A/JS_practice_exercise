@@ -6,4 +6,6 @@ import {createLorem} from './js05.js';
 import {myReplace} from './js06.js';
 import {getPhraseByNum} from './js07.js';
 import {directionByKeyCode} from './js08.js';
-
+import {sortByDesc} from './js09.js';
+import {sortByOddity} from './js10.js';
+import {sortByLength} from './js11.js';
