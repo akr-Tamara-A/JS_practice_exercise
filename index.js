@@ -17,3 +17,5 @@ import {randNum} from './js16.js';
 import {nearestPoint2D} from './js17.js';
 import {linkedListToString} from './js18.js';
 import {minNumOfBanknotes} from './js19.js';
+import {getWordsStat} from './js20.js';
+import {getData} from './js21.js';
