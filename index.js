@@ -19,3 +19,7 @@ import {linkedListToString} from './js18.js';
 import {minNumOfBanknotes} from './js19.js';
 import {getWordsStat} from './js20.js';
 import {getData} from './js21.js';
+import {getBMI} from './js22.js';
+import {getQuadro} from './js23.js';
+import {getFibonachi} from './js24.js';
+import {getNthFibElement} from './js25.js';
